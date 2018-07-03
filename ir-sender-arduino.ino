@@ -5,11 +5,11 @@
 
 // WiFi credentials
 const char* WIFI_NAME     = "Lyapov";
-const char* WIFI_PASSWORD = "841863456";
+const char* WIFI_PASSWORD = "-";
 
 
 // Blynk credentials
-const char* BLYNK_AUTH = "cb640bc0bdea47efb5fb6c1295c71deb";
+const char* BLYNK_AUTH = "-";
 
 // Blynk pins
 const int BLYNK_AC_BUTTON_ON_OFF        = V8;
